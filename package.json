@@ -1,0 +1,17 @@
+{
+  "name": "resume",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@git.devops-int.avid.com:dev/avid-mcfirst-webui.git"
+  },
+  "devDependencies": {
+    "bootstrap": "3.x",
+    "gulp": "3.x",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify-css": "1.x",
+    "gulp-sass": "2.0.x",
+    "gulp-uglify": "^1.5.1",
+    "gulp-webserver": "0.9.x"
+  }
+}
