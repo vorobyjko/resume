@@ -7,11 +7,15 @@
   },
   "devDependencies": {
     "bootstrap": "3.x",
+    "browserify": "^12.0.1",
     "gulp": "3.x",
     "gulp-concat": "^2.6.0",
     "gulp-minify-css": "1.x",
     "gulp-sass": "2.0.x",
     "gulp-uglify": "^1.5.1",
-    "gulp-webserver": "0.9.x"
+    "gulp-watch": "^4.3.5",
+    "gulp-webserver": "0.9.x",
+    "jquery": "^2.1.4",
+    "vinyl-source-stream": "^1.1.0"
   }
 }
