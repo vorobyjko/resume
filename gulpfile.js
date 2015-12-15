@@ -33,7 +33,7 @@ gulp.task('html', function() {
 })
 
 gulp.task('css', function() {
-	gulp.src('src/css/style.css')
+	gulp.src(['src/css/style.css', 'node_modules/bootstrap/dist/bootstrap.css'])
 		.pipe(gulp.dest('dist/css/'))
 })
 
